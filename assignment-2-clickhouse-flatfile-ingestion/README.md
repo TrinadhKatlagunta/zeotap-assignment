@@ -51,7 +51,7 @@ assignment-2-clickhouse-flatfile-ingestion/
 
 ## 🧪 How to Run
 
-### 🔧 Backend (Spring Boot)
+### 1. 🔧 Backend (Spring Boot)
 
 1. Navigate to the backend/ folder.
 2. Open application.properties and configure:
@@ -63,7 +63,7 @@ assignment-2-clickhouse-flatfile-ingestion/
 ./mvnw spring-boot:run
 ```
 
-### 🌐 Frontend (React)
+### 2. 🌐 Frontend (React)
 1. Navigate to the frontend/ folder.
 2. Install dependencies:
 
