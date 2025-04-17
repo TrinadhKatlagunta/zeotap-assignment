@@ -24,7 +24,7 @@ This full-stack application enables bidirectional data ingestion between ClickHo
 
 ## 📂 Folder Structure
 
-```plaintext
+```
 assignment-2-clickhouse-flatfile-ingestion/
 ├── frontend/
 │   ├── App.js
@@ -35,3 +35,48 @@ assignment-2-clickhouse-flatfile-ingestion/
 │   └── application.properties
 ├── README.md
 └── prompts.txt
+```
+
+---
+
+## 🛠 Technologies Used
+
+- React  
+- Java Spring Boot  
+- ClickHouse JDBC  
+- JWT Authentication  
+- CSV / Flat File IO
+
+---
+
+## 🧪 How to Run
+
+### 🔧 Backend (Spring Boot)
+
+1. Navigate to the backend/ folder.
+2. Open application.properties and configure:
+    - ClickHouse connection URL
+    - JWT token
+3. Build and run using:
+
+```
+./mvnw spring-boot:run
+```
+
+### 🌐 Frontend (React)
+1. Navigate to the frontend/ folder.
+2. Install dependencies:
+
+```
+npm install
+```
+3. Start the frontend:
+
+```
+npm start
+```
+
+---
+
+## 🤖 AI Prompts
+All prompts used with AI tools during the assignment are listed in the prompts.txt file in this folder.
