@@ -1,6 +1,6 @@
 # Zeotap Assignment
 
-This repository contains both assignments submitted for the Software Engineer Intern position at Zeotap by **Trinadh Katlagunta**.
+This repository contains both assignments submitted for the Software Engineer Intern position at Zeotap.
 
 ---
 
