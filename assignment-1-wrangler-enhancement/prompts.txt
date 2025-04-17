@@ -1,0 +1,8 @@
+Prompt examples used with AI tools for Assignment 1:
+
+- How to add custom BYTE_SIZE and TIME_DURATION lexer tokens in ANTLR grammar (Directives.g4)
+- Java class structure for parsing units like "10KB" and "150ms"
+- How to write a custom directive in CDAP Wrangler that performs aggregation
+- How to add visitor methods for new token rules in the ANTLR-generated parser
+- How to write unit tests for custom token parsing and directives in Java
+- How to update README.md with usage examples for new directives
