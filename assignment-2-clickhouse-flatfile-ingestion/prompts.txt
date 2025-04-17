@@ -1,0 +1,10 @@
+Prompt examples used with AI tools for Assignment 2:
+
+- How to create a simple React UI for source selection with checkboxes
+- How to send JWT-authenticated API requests from frontend to Spring Boot
+- How to configure ClickHouse JDBC client with JWT token in Spring Boot
+- How to design REST API for ingesting data between ClickHouse and flat file (CSV)
+- Best practices for batch processing and streaming large datasets in Java
+- How to show record count and error status in UI after ingestion
+- How to handle file uploads and schema discovery in React and Spring
+- Suggestions for organizing frontend and backend folders in a full-stack project
