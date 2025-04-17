@@ -60,7 +60,9 @@ assignment-2-clickhouse-flatfile-ingestion/
 3. Build and run using:
 
 ```
+./mvnw clean install
 ./mvnw spring-boot:run
+
 ```
 
 ### 2. 🌐 Frontend (React)
